@@ -1,7 +1,7 @@
 # simple_scripts
 
 ## check_site_name.sh 
-Checks the status of a user given site
+Checks the status of a site provide by user via ping
 
 ## get_system_info_Linux 
 Runs uname commands to return Linux system info
